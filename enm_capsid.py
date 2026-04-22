@@ -1,6 +1,6 @@
 """
 Resonant Vibrations of Viral Capsids: A Unified Framework
-Edilson Silva — Soft Matter submission
+Edilson Silva — Independent Researcher, Belém, Pará, Brazil.
 
 Elastic Network Model (ENM) for CCMV (PDB: 1CWP)
 
