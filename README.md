@@ -4,8 +4,7 @@
 
 This repository contains the Python implementation of the Elastic Network Model (ENM) described in:
 
-**Silva, E.** *Resonant Vibrations of Viral Capsids: A Unified Framework from Lamb Theory to Genome-Induced Prestress*. *Soft Matter* (submitted).
-
+**Silva, E.** *Resonant Vibrations of Viral Capsids: A Unified Framework from Lamb Theory to Genome-Induced Prestress*.
 ## Overview
 
 The code constructs an ENM from a viral capsid PDB structure, calibrates the spring constant using continuum elasticity (exact thin‑shell denominator), and computes the vibrational spectrum. It reproduces the symmetry decomposition and frequency predictions reported in the manuscript.
@@ -79,7 +78,7 @@ with Lamb eigenvalue ξ = 2.08 for the breathing mode (ν = 0.3).
 Citation
 If you use this code in your research, please cite the accompanying manuscript:
 
-Silva, E. Resonant Vibrations of Viral Capsids: A Unified Framework from Lamb Theory to Genome-Induced Prestress. Soft Matter (submitted).
+Silva, E. Resonant Vibrations of Viral Capsids: A Unified Framework from Lamb Theory to Genome-Induced Prestress.
 
 and the Zenodo DOI of this repository.
 
